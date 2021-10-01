@@ -1,0 +1,28 @@
+{"_id":"4cqSCD3Dft3yZQ4a","name":"Vigor","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Armas","type":"Item","parent":"HmkHmdn63rv9MiJf","sorting":"a","sort":0,"color":null,"flags":{},"_id":"5eIWYUWV7MWqK2TQ"}
+{"_id":"7PU3dRPB4sFKh3uX","name":"Perceptivas","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"BEv3get37FT9ZWMy","name":"4 - Propiedades (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"BsqnKpcUX5OSO0mi","name":"1 Datos básicos","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"BtzQ9FMRAIe4K5eN","name":"Plantilla (NO TOCAR)","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"DWcsuB3RM2sdl4iA","name":"1 Resistencias y acceso a pestañas","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"HmkHmdn63rv9MiJf","name":"5 - cItems","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"Armaduras","type":"Item","parent":"HmkHmdn63rv9MiJf","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IHKpRohOpBxcAFq1"}
+{"name":"Sociales","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"O9iI8urysvo5Dw8x"}
+{"name":"Atleticas","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"PgwWMJXqxHPmuxDF"}
+{"name":"Desventajas","type":"Item","parent":"HmkHmdn63rv9MiJf","sorting":"a","sort":0,"color":null,"flags":{},"_id":"RCKKQaW7DtobM1re"}
+{"name":"Aquetipos","type":"Item","parent":"HmkHmdn63rv9MiJf","sorting":"a","sort":0,"color":null,"flags":{},"_id":"T9kHwEoMgGO4m9EU"}
+{"name":"5 Modificadores","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"UGO5oz2JK7z9SF0f"}
+{"name":"6 Poderes","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"Vxd7DI0Jnn62lxDv"}
+{"_id":"XEYcbAgHFlnXkLzI","name":"1 - Pestañas (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Creativas","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"aZN9Maql6IOxToCb"}
+{"_id":"akP7Td2BaEGpWfnt","name":"3 - Grupos y tablas (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"2 Armas","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"cGHgntLiktdEhnzy"}
+{"name":"2 Datos de combate","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"dh0w0idKGa55K3qY"}
+{"_id":"gyZhk9t8hZleUq4Y","name":"2 Proteccion","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"les1I4Z71kLdWsTY","name":"1 Caracteristicas primarias","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Intelectuales","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"q2G43yHWcwqIyIHL"}
+{"_id":"rToNm7SEqWc9vs5M","name":"2 - Paneles y multipaneles (NO TOCAR)","type":"Item","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"2 Datos de proteccion","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"w9kOEbK4r1jhEJ6z"}
+{"name":"7 Habilidades secundarias","type":"Item","parent":"BEv3get37FT9ZWMy","sorting":"a","sort":0,"color":null,"flags":{},"_id":"xFaeiPb5LVlkCI8X"}
+{"name":"Ventajas","type":"Item","parent":"HmkHmdn63rv9MiJf","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zANw8jjnkXtfUJQX"}
+{"name":"Subterfugio","type":"Item","parent":"xFaeiPb5LVlkCI8X","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zxL79RnCvw88uJNn"}
