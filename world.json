@@ -1,7 +1,7 @@
 {
   "name": "animabf-sandbox",
   "title": "Anima Beyond Fantasy para Sandbox",
-  "description": "<p style=\"text-align: center;\"><em>Y el hombre olvid&oacute;. </em><em>Nadie es capaz de decir por qu&eacute; ocurri&oacute; ni c&oacute;mo. </em><em>Puede que se desencadenara alg&uacute;n fen&oacute;meno natural que borr&oacute; </em><em>nuestros recuerdos, puede que trasgredi&eacute;ramos una regla de alg&uacute;n poder </em><em>desconocido y fu&eacute;ramos castigados por ello. </em><em>Puede que, simplemente, el hombre se lo hiciese a s&iacute; mismo. </em><em>Como ni&ntilde;os peque&ntilde;os, reducidos a poco m&aacute;s que animales, </em><em>vagamos durante siglos mientras nuestra fatua civilizaci&oacute;n </em><em>se derrumbaba alrededor de nosotros.</em><br /><em>Todo se convirti&oacute; en ruinas. Las ruinas se hicieron polvo. </em><em>Y el polvo se dispers&oacute; en los vientos.</em><br /><em>En aquella &eacute;poca el mundo ten&iacute;a otro nombre. </em></p>\n<p style=\"text-align: center;\"><em>Pero nadie queda para recordarlo.</em></p>",
+  "description": "<p style=\"text-align:center\"><em>Y el hombre olvidó. </em><em>Nadie es capaz de decir por qué ocurrió ni cómo. </em><em>Puede que se desencadenara algún fenómeno natural que borró </em><em>nuestros recuerdos, puede que trasgrediéramos una regla de algún poder </em><em>desconocido y fuéramos castigados por ello. </em><em>Puede que, simplemente, el hombre se lo hiciese a sí mismo. </em><em>Como niños pequeños, reducidos a poco más que animales, </em><em>vagamos durante siglos mientras nuestra fatua civilización </em><em>se derrumbaba alrededor de nosotros.</em><br /><em>Todo se convirtió en ruinas. Las ruinas se hicieron polvo. </em><em>Y el polvo se dispersó en los vientos.</em><br /><em>En aquella época el mundo tenía otro nombre. </em></p>\n<p style=\"text-align:center\"><em>Pero nadie queda para recordarlo.</em></p>",
   "author": "Luvero",
   "authors": [
     {
@@ -26,9 +26,8 @@
   "download": "https://codeload.github.com/Luvero-1/animabf-sandbox/zip/main",
   "protected": false,
   "background": "worlds/animabf-sandbox/Escenas/Anima%20portada.jpg",
-  "coreVersion": "0.8.9",
-  "nextSession": null,
+  "coreVersion": "9.242",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.10.1"
+  "systemVersion": "0.12.1"
 }
